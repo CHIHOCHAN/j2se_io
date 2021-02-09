@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b664b123-b915-4601-bf25-8f2baf0d5732" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../companyImportant/company/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\companyImportant\company\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mtyyLp3sQJcmI8A1MfdanvSVlk" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaStudy/how2jProject/j2se/scan" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../software/nodejs/node" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\companyProjectMyself\io\src" />
+    </key>
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Java8Test">
+    <configuration name="IOTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IOTest" />
+      <module name="companyProjectMyself" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java8Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8Test" />
+      <module name="companyProjectMyself" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Java8Test" />
+        <item itemvalue="Application.IOTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\82456\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b664b123-b915-4601-bf25-8f2baf0d5732" name="Default Changelist" comment="" />
+      <created>1610327434377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610327434377</updated>
+      <workItem from="1610327437216" duration="1050000" />
+      <workItem from="1610449435302" duration="1861000" />
+      <workItem from="1610944774634" duration="933000" />
+      <workItem from="1611021859163" duration="108000" />
+      <workItem from="1612852733285" duration="253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="172" key="FileChooserDialogImpl" timestamp="1612852985013">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="517" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1612852985013" />
+    <state width="1414" height="284" key="GridCell.Tab.0.bottom" timestamp="1610953576134">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1414" height="284" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1610953576134" />
+    <state width="1414" height="284" key="GridCell.Tab.0.center" timestamp="1610953576134">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1414" height="284" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1610953576134" />
+    <state width="1414" height="284" key="GridCell.Tab.0.left" timestamp="1610953576134">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1414" height="284" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1610953576134" />
+    <state width="1414" height="284" key="GridCell.Tab.0.right" timestamp="1610953576134">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1414" height="284" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1610953576134" />
+    <state x="399" y="155" key="search.everywhere.popup" timestamp="1610327753169">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="399" y="155" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1610327753169" />
+  </component>
+</project>
